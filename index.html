@@ -2,48 +2,35 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<h1>COVID-19 Student COrPS Resources</h1>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<p>
+The student <em><b>C</b>ommunity <b>O</b>ut<b>r</b>each <b>P</b>andemic
+<b>S</b>ervice</em> are a group of preclinical and clinical medical and
+physician assistant (PA) students serving the community by acting as physician
+extenders for providers during the time of the COVID-19 pandemic. Students
+partner with providers to make follow up calls to patients that the provider
+thinks may be potentially vulnerable in some way, for example because they are
+older, live alone, or are experiencing heightened anxiety due to the pandemic.
+Normally, providers would call these patients back themselves, however COVID-19
+cases have stretched medical resources thin, making these wellness calls harder
+to execute. Medical and PA students are largely excluded from clinical care at
+this time due to PPE shortages and have the ability to work with clinicians to
+provide this follow up and emotional support to potentially isolated patient,
+effectively extending the reach of overtaxed clinicians.
+</p>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<p>
+Students do not provide any medical advice or medical care over the phone and
+are not acting as medical providers in any way. They are instead simply
+providing medical support and relaying any non-urgent questions or concerns from
+patient to provider.
+</p>
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
+<p>
+This repository will contain all the materials needed to start a clinican:student
+partnership, including onboarding materials, example scripts, Epic templates,
+and instructions on using Doximity and Epic for calls. The Epic templates and
+instructions will likely need to be adapted for each environment, but everything
+else should be transferrable.
+</p>
