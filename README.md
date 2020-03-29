@@ -2,7 +2,7 @@
 
 Visit the site: https://www.studentcorps.site
 
-The student ***C**ommunity **O**ut**r**each **P**andemic **S**ervice* are a
+The student ***C**ommunity **O**ut-**r**each **P**andemic **S**ervice* are a
 group of preclinical and clinical medical and physician assistant (PA) students
 serving the community by acting as physician extenders for providers during the
 time of the COVID-19 pandemic. Students partner with providers to make follow up
