@@ -4,7 +4,9 @@ title: COVID-19 Student CORPS
 ---
 
 <div class="buttonBox">
-  <a href="https://github.com/MikeDacre/studentcorps" class="myButton">View on GitHub</a> &nbsp; <a href="https://github.com/MikeDacre/studentcorps/releases" class="myButton">Download Resources</a>
+  <a href="https://github.com/MikeDacre/studentcorps" class="myButton">View on GitHub</a> &nbsp;
+  <a href="/instructions" class="myButton">Instructions</a> &nbsp;
+  <a href="https://github.com/MikeDacre/studentcorps/releases" class="myButton">Download Resources</a>
 </div>
 
 
