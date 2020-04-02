@@ -1,56 +1,14 @@
----
-layout: page
-permalink: /instructions
-title: Instructions
----
+# Instructions
 
-These instructions, and the [attached documents](#resources), represent our best practices following our experiences so far, and will be updated frequently. If you have any suggestions for changes/additions, please [let us know](/about/#contact).
+Please see the instructions on the site [https://www.studentcorps.site/instructions](https://www.studentcorps.site/instructions). These instructions and the documents in this folder represent our best practices following our experiences so far, and will be updated frequently. If you have any suggestions for changes/additions, please [let us know](https://www.studentcorps.site/instructions/about/#contact).
 
 *If you implement this program yourselves, please have your students fill out our pre- and post- surveys before they start calls and after one month of calls, or after they finish making calls, whichever is first. This will allow us to track the efficacy of this project.*
-
-## Consenting Patients and Privacy
-
-Patient consent can generally be obtained in the same way it would be for in-person clinical visits, even though these calls are non-clinical. Consent can be obtained either ahead of time during a clinical visit or by another member of the team, or it can be obtained by the student at the start of the call.
-
-Student notes should be ideally made in the EHR. If this is not possible, we have provided sample templates for making notes in Word documents. However, it is critically important that these notes are stored in an institutionally PHI-approved way.
-
-For calls, students need to be able to call from the clinic number. Thankfully, at this time [Doximity](https://www.doximity.com/) is providing use of their dialer for free, which allows students (and other providers) to make calls from the cellphones that appear to come from the clinic number. Instructions for that are [here](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Tech_Instructions/Doximity_Instructions.docx). It is very important to use this method, or something similar, to avoid exposing the student's number, which may result in patients accidentally calling students when they want to call the clinic.
-
-## Student Integration Into the Team
-
-In our experience, we have found that preclinical students are generally most comfortable working with a single clinical mentor, while clerkship-level students work well with multiple faculty members, which is more similar to the clerkship model and provides the best educational experience for them.
-
-It is our belief that the most efficient way to implement this program is to integrate students, including preclinical students, as completely as possible into the healthcare team to ensure closed loop communication and to avoid duplicate work.
-
-This means:
-
-- Medical assistants, nurses, and other team members should be aware of the program and student 
-- Students should have access to the EHR (Epic instructions for students below) and should:
-	- Log all calls in the EHR as an encounter
-	- Make a note for each call that can be seen by the team, and will be explicitly shared with
-	- Use the EHR to communicate with the primary clinician and other health team members, which allows fast access to the patient chart from any emails.
-- Students should ideally be included in team huddles, particularly involving any medical assistants or other team members who may be also making frequent calls. These other team members frequently have additional candidate patients to enroll in the program. 
-- Clinical mentors need to commit to guide students through the process. Note that this is intended to be an opportunity to educate future providers as well as an opportunity to provide support to vulnerable patients. Time savings to clinicians are not likely to come until the second or third weeks as students become more proficient team members.
-
-## Student On-boarding
-
-We have provided an [example student on-boarding document](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Student_Materials/Student_CORPS_On-Boarding.docx) that can be given to students to explain the process. You should edit this document to include appropriate contact information for faculty mentors.
-
-Most students are highly motivated to help during this time of crisis, so the most important parts of the on-boarding are making sure students know:
-
-- Not to provide medical care of any kind
-- How to use the medical record (or other note templates) and the Doximity app to securely communicate
-- When to urgently contact their clinical mentor
-
-## Clinician On-boarding
-
-Similarly, clinicians who volunteer to mentor students must be made aware that students cannot provide any clinical care. We have provided another editable document with instructions for clinicians [here](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Clinician_Materials/Physician_Preceptor_Guide_Student_CORPS.docx).
 
 # Resources
 
 All of the resources are `.docx` documents in the [GitHub repository](https://www.github.com/MikeDacre/studentcorps), it is highly recommended that you alter them to meet your practice environment.
 
-You can download all the documents as a package here: **todo**
+You can download all the documents as a package here: https://github.com/MikeDacre/studentcorps/releases
 
 ## Clinician and Department Resources
 
