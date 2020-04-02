@@ -8,7 +8,7 @@ title: COVID-19 Student CORPS
 </div>
 
 
-The student <em><b>C</b>ommunity <b>O</b>ut<b>R</b>each <b>P</b>andemic <b>S</b>ervice</em> are a group of preclinical and clinical medical and physician assistant (PA) students serving the community by acting as physician extenders for providers during the time of the COVID-19 pandemic.
+The student <em><b>C</b>ommunity <b>O</b>ut<b>R</b>each <b>P</b>andemic <b>S</b>ervice</em> are a group of preclerkship and clerkship medical and physician assistant (PA) students serving the community by acting as physician extenders for cliniciansduring the time of the COVID-19 pandemic.
 
 This site and [GitHub repository](https://www.github.com/MikeDacre/studentcorps) are intended to provide resources to departments, students, and clinicians who want to implement a wellness phone call system run by students to check on vulnerable patients, provide emotional support to them, and relay important information back to the health team.
 

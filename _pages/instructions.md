@@ -14,23 +14,23 @@ Patient consent can generally be obtained in the same way it would be for in-per
 
 Student notes should be ideally made in the EHR. If this is not possible, we have provided sample templates for making notes in Word documents. However, it is critically important that these notes are stored in an institutionally PHI-approved way.
 
-For calls, students need to be able to call from the clinic number. Thankfully, at this time [Doximity](https://www.doximity.com/) is providing use of their dialer for free, which allows students (and other providers) to make calls from the cellphones that appear to come from the clinic number. Instructions for that are [here](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Tech_Instructions/Doximity_Instructions.docx). It is very important to use this method, or something similar, to avoid exposing the student's number, which may result in patients accidentally calling students when they want to call the clinic.
+For calls, students need to be able to call from the clinic number. Thankfully, at this time [Doximity](https://www.doximity.com/) is providing use of their dialer for free, which allows students (and other clinicians) to make calls from the cellphones that appear to come from the clinic number. Instructions for that are [here](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Tech_Instructions/Doximity_Instructions.docx). It is very important to use this method, or something similar, to avoid exposing the student's number, which may result in patients accidentally calling students when they want to call the clinic.
 
 ## Student Integration Into the Team
 
-In our experience, we have found that preclinical students are generally most comfortable working with a single clinical mentor, while clerkship-level students work well with multiple faculty members, which is more similar to the clerkship model and provides the best educational experience for them.
+In our experience, we have found that preclerkship students are generally most comfortable working with a single clinical mentor, while clerkship-level students work well with multiple faculty members, which is more similar to the clerkship model and provides the best educational experience for them.
 
-It is our belief that the most efficient way to implement this program is to integrate students, including preclinical students, as completely as possible into the healthcare team to ensure closed-loop communication and to avoid duplicate work.
+It is our belief that the most efficient way to implement this program is to integrate students, including preclerkship students, as completely as possible into the healthcare team to ensure closed-loop communication and to avoid duplicate work.
 
 This means:
 
-- Medical assistants, nurses, and other team members should be aware of the program and student 
+- Medical assistants, nurses, and other team members should be aware of the program and student
 - Students should have access to the EHR (Epic instructions for students below) and should:
 	- Log all calls in the EHR as an encounter
 	- Make a note for each call that can be seen by the team, and will be explicitly shared with
 	- Use the EHR to communicate with the primary clinician and other health team members, which allows fast access to the patient chart from any emails.
-- Students should ideally be included in team huddles, particularly involving any medical assistants or other team members who may be also making frequent calls. These other team members frequently have additional candidate patients to enroll in the program. 
-- Clinical mentors need to commit to guiding students through the process. Note that this is intended to be an opportunity to educate future providers as well as an opportunity to provide support to vulnerable patients. Time savings to clinicians are not likely to come until the second or third weeks as students become more proficient team members.
+- Students should ideally be included in team huddles, particularly involving any medical assistants or other team members who may be also making frequent calls. These other team members frequently have additional candidate patients to enroll in the program.
+- Clinical mentors need to commit to guiding students through the process. Note that this is intended to be an opportunity to educate future clinicians as well as an opportunity to provide support to vulnerable patients. Time savings to clinicians are not likely to come until the second or third weeks as students become more proficient team members.
 
 ## Student Onboarding
 
@@ -61,7 +61,7 @@ You can download all the documents as a package here: **todo**
 ## Student Resources
 
 - [Student onboarding](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Student_Materials/Student_CORPS_Onboarding.docx): A template for student Onboarding. Should be edited by the department to match department policies prior to use.
-- [Example pre-clinical script](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Student_Materials/Preclin_Guidelines_and_Script.docx): Guidelines to refer to on each call with example language to use on the call.
+- [Example preclerkship script](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Student_Materials/Preclin_Guidelines_and_Script.docx): Guidelines to refer to on each call with example language to use on the call.
 - [Doximity instructions](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Tech_Instructions/Doximity_Instructions.docx): Instructions for faculty and students who want to use Doximity to call from personal cell-phones using the clinic call back number.
 - [Epic Instructions](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Tech_Instructions/Epic_for_Calls.docx): Instructions for how to use Epic to create a new phone call encounter and note. Instructions are specific to the Stanford Epic instance, but should be similar for other institutions.
 - [Call Tracking Log](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Templates/Call_Tracking_Log.xlsx): An Excel spreadsheet that can be used for tracking calls over time. Take care to store in a PHI-secure way.
