@@ -5,13 +5,13 @@ title: About
 ---
 
 
-The student <em><b>C</b>ommunity <b>O</b>ut<b>r</b>each <b>P</b>andemic <b>S</b>ervice</em> are a group of preclerkship and clerkship medical and physician assistant (PA) students serving the community by acting as physician extenders for clinicians during the time of the COVID-19 pandemic. Students partner with clinicians to make follow up calls to patients that the clinician thinks may be potentially vulnerable in some way, for example, because they are older, live alone, or are experiencing heightened anxiety due to the pandemic.
+The student <em><b>C</b>ommunity <b>O</b>ut<b>r</b>each <b>P</b>andemic <b>S</b>ervice</em> is a group of preclerkship and clerkship medical and physician assistant (PA) students serving the community by acting as physician extenders for clinicians during the time of the COVID-19 pandemic. Students partner with clinicians to make follow up calls to patients that the clinician thinks may be potentially vulnerable in some way, for example, because they are older, live alone, or are experiencing heightened anxiety due to the pandemic.
 
 Normally, clinicians would call these patients back themselves, however, COVID-19 cases have stretched medical resources thin making these wellness calls harder to execute. Furthermore medical and PA students are largely excluded from clinical care at this time due to PPE shortages. These students are highly motivated to contribute to the crisis response and have sufficient training to work with clinicians to provide this follow up and emotional support to potentially isolated patients, effectively extending the reach of overtaxed clinicians.
 
 Students do not provide any medical advice or medical care over the phone and are not acting as medical clinicians in any way. They are instead simply providing emotional support and relaying any non-urgent questions or concerns from patient to clinician.
 
-This repository contains all the materials needed to start a clinician:student partnership, including on-boarding materials, example scripts, note templates, and instructions on using Doximity and Epic for calls. The Epic templates and instructions will likely need to be adapted for each environment, but everything should be transferrable.
+This repository contains all the materials needed to start a clinician:student partnership, including on-boarding materials, example scripts, note templates, and instructions on using Doximity and Epic for calls. The Epic templates and instructions will likely need to be adapted for each environment, but everything should be transferable.
 
 ## Creators
 
