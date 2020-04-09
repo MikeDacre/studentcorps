@@ -6,7 +6,12 @@ title: Instructions
 
 These instructions, and the [attached documents](#resources), represent our best practices following our experiences so far and will be updated frequently. If you have any suggestions for changes/additions, please [let us know](/about/#contact).
 
-*If you implement this program yourselves, please have your students fill out our pre- and post- surveys before they start calls and after one month of calls, or after they finish making calls, whichever is first. This will allow us to track the efficacy of this project.*
+## Research/Surveys
+
+*If you implement this program yourselves, **please have students fill out both our call logs and our pre- and post- surveys** before they start calls and after two months of calls, or after they finish making calls, whichever is first. This will allow us to track the efficacy of this project.*
+
+- Pre- and post- survey ([https://mdd.li/studentcorpsstudy](https://mdd.li/studentcorpsstudy)) — these allow us to gather baseline (anonymized) data on the students who are involved
+- Call log surveys ([https://mdd.li/postcall](https://mdd.li/postcall)) — this is a very short anonymous, PHI free, survey for students to fill out after each call, so we can see how many calls are made and measure features of those calls
 
 ## Consenting Patients and Privacy
 
