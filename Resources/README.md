@@ -2,7 +2,15 @@
 
 Please see the instructions on the site [https://www.studentcorps.site/instructions](https://www.studentcorps.site/instructions). These instructions and the documents in this folder represent our best practices following our experiences so far, and will be updated frequently. If you have any suggestions for changes/additions, please [let us know](https://www.studentcorps.site/instructions/about/#contact).
 
-*If you implement this program yourselves, please have your students fill out our pre- and post- surveys before they start calls and after one month of calls, or after they finish making calls, whichever is first. This will allow us to track the efficacy of this project.*
+*If you do implement such a program, please have volunteers fill out this survey prior to starting and after ending, or after two months, whichever comes first:*
+
+*[https://mdd.li/studentcorpsstudy](https://mdd.li/studentcorpsstudy)*
+
+*Then, after each call, please fill out the following, very short, post-call survey:*
+
+*[https://mdd.li/postcall](https://mdd.li/postcall)*
+
+*These will help us get an idea of who is using the idea, and what kind of impact it is having. Thanks!*
 
 # Resources
 
@@ -30,3 +38,6 @@ These templates can be used for making notes on calls.
 
 - [Epic template](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Templates/Epic_Note_Template.docx): A template that can be added to your Epic SmartPhrases and entered into your notes with the `.wellphone` dotphrase. Includes instructions at the top for how to add it to your Epic instance.
 - [Word doc template](https://github.com/MikeDacre/studentcorps/blob/master/Resources/Templates/Call_Log_Note_Template.docx): A Word document version of the Epic template for those without EHR access. Be sure to store in a PHI-secure way.
+
+
+![Stanford Division for Primary Care and Population Health](../pcph-official-logo.png)

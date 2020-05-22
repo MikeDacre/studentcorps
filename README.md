@@ -20,6 +20,8 @@ Detailed instructions are available on the [site instructions page](https://www.
 
 The student CORPS is a product of Stanford medical students and the faculty at the [Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD)](https://med.stanford.edu/shield.html) who wanted to create a way for students to be able to provide support to patients and faculty during the COVID-19 crisis.
 
+The SHIELD initiative is part of the [Stanford Division for Primary Care and Population Health](http://med.stanford.edu/pcph.html) at the [Stanford School of Medicine](https://www.stanford.edu).
+
 The theme for this site ([Reverie](https://github.com/amitmerchant1990/reverie)) was created by [Amit Merchant](https://github.com/amitmerchant1990/). The site files are on the `gh-pages` branch of this repo.
 
 ## Contact
@@ -27,3 +29,6 @@ The theme for this site ([Reverie](https://github.com/amitmerchant1990/reverie))
 Please let us know if you are using these materials or running a similar program, we would love to hear from you! Please also reach out if you have suggestions for how we can improve these documents and instructions.
 
 The project lead for the Student CORPS is [Dr. Erika Schillinger](https://profiles.stanford.edu/erika-schillinger), please reach out to her with comments about the project or suggestions for improvements. For questions about the site or GitHub repository, please comment on [GitHub](https://github.com/MikeDacre/studentcorps/issues) or email [Mike Dacre](dacre@stanford.edu). If you are feeling tech-savvy, [pull requests](https://github.com/MikeDacre/studentcorps/pulls) are also always welcome.
+
+
+![Stanford Division for Primary Care and Population Health](pcph-official-logo.png)
