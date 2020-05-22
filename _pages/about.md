@@ -17,6 +17,7 @@ This repository contains all the materials needed to start a clinician:student p
 
 The student CORPS is a product of Stanford medical students and the faculty at the [Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD)](https://med.stanford.edu/shield.html) who wanted to create a way for students to be able to provide support to patients and faculty during the COVID-19 crisis.
 
+The SHIELD initiative is part of the [Stanford Division for Primary Care and Population Health](http://med.stanford.edu/pcph.html){:target="_blank"} at the [Stanford School of Medicine](https://www.stanford.edu){:target="blank"}.
 
 The theme for this site ([Reverie](https://github.com/amitmerchant1990/reverie)) was created by [Amit Merchant](https://github.com/amitmerchant1990/).
 
@@ -24,4 +25,4 @@ The theme for this site ([Reverie](https://github.com/amitmerchant1990/reverie))
 
 Please let us know if you are using these materials or running a similar program, we would love to hear from you! Please also reach out if you have suggestions for how we can improve these documents and instructions.
 
-The project lead for the Student CORPS is [Dr. Erika Schillinger](https://profiles.stanford.edu/erika-schillinger), please reach out to her with comments about the project or suggestions for improvements. For questions about the site or GitHub repository, please comment on [GitHub](https://github.com/MikeDacre/studentcorps/issues) or email <a href="mailto:dacre@stanford.edu?subject=COVID COrPS Webpage Response">Mike Dacre</a>. If you are feeling tech-savvy, [pull requests](https://github.com/MikeDacre/studentcorps/pulls) are also welcome.
+The project lead for the Student-COrPS is [Dr. Erika Schillinger](https://profiles.stanford.edu/erika-schillinger), please reach out to her with comments about the project or suggestions for improvements. For questions about the site or GitHub repository, please comment on [GitHub](https://github.com/MikeDacre/studentcorps/issues) or email <a href="mailto:dacre@stanford.edu?subject=COVID COrPS Webpage Response">Mike Dacre</a>. If you are feeling tech-savvy, [pull requests](https://github.com/MikeDacre/studentcorps/pulls) are also welcome.
